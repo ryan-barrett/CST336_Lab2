@@ -1,0 +1,11 @@
+.low-score {
+    color: red !important;
+}
+
+.high-score {
+    color: green !important;
+}
+
+.q10-selected {
+    border-bottom: 2px cyan solid;
+}
