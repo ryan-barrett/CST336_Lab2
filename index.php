@@ -140,7 +140,7 @@
           }
 
           // question 9
-          if (q9Response === 'wyoming') {
+          if (q9Response === 'q9-wyoming') {
             rightAnswer(9);
           }
           else {
