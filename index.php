@@ -55,7 +55,7 @@
           $(`#q${index}-feedback`).html('Correct!');
           $(`#q${index}-feedback`).attr('class', 'bg-success text-white');
           $(`#mark-img-${index}`).html('<img src="./img/checkmark.png" alt="checkmark">');
-          score += 20;
+          score += 10;
         }
 
         function wrongAnswer(index) {
